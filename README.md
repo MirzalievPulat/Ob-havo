@@ -1,7 +1,8 @@
 
 ![Logo](https://github.com/MirzalievPulat/Ob-havo/blob/main/02d.png?raw=true)
 
-![MilbulSeasonsGIF](https://github.com/user-attachments/assets/dd0cb7b4-473f-4789-9a42-9487ace1978e)
+![BlueFlyGIF](https://github.com/user-attachments/assets/639ef68a-916f-4ce6-abb6-4da4c029bb49)
+
 
 
 # ☁️ Ob-havo
