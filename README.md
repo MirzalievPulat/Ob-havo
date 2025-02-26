@@ -7,7 +7,7 @@
 
 # ☁️ Ob-havo
 
-Valyutalar is a helpful app for monitoring weather around the world. 
+ Ob-Havo is a user-friendly weather app that provides real-time weather updates with a sleek interface. It supports Light and Dark mode for comfortable viewing, offers the latest weather data, and allows users to check forecasts in Uzbek, Russian, and English. The app provides a 5-day weather forecast with 3-hour intervals, ensuring detailed insights. With location detection and the ability to select a place on the map, users can easily track weather conditions for any location.
 ## 📸 Screenshots
 
 | <img src="https://github.com/MirzalievPulat/Ob-havo/blob/main/1.jpg?raw=true" width="200"/> | <img src="https://github.com/MirzalievPulat/Ob-havo/blob/main/2.jpg?raw=true" width="200"/> |
